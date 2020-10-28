@@ -2,7 +2,7 @@
 
 ## Function Block Diagram
 
-![FBD](https://pbs.twimg.com/media/ElHJmVSUUAAEb0Z?format=png&name=large)
+![FBD](https://pbs.twimg.com/media/ElWNTLCUYAA4gIm?format=png&name=large)
 
 ## Instruction Set
 
