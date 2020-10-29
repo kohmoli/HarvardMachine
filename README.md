@@ -18,7 +18,7 @@
 | JUMP  | あり  | CFによらず，PCの値を引数に変更する                         |
 | PRINT | あり  | 引数を出力する                                           |
 | NOP   | なし  | 何もしない                                               |
-| EOP   | なし  | プログラムの終了を示す                                    |
+| EOP   | なし  | EFに1をセットする                                        |
 
 ### Arithmetic Instructions
 | 命令  | 引数  | 説明                                                    |
