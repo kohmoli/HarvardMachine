@@ -1,0 +1,12 @@
+a = 0
+b = 1
+i = 0
+
+while i < 10 :
+   i = i + 1
+   c = a
+   a = b
+   b = b + c
+
+   print b
+   sleep 100
